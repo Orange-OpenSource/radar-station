@@ -1,0 +1,4 @@
+easydict
+h5py
+alive_progress
+scipy
